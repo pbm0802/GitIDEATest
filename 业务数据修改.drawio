@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:41:02.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="4T3z3K03MUZ2N126_FGV" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T06:01:31.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="948XQoTJIvLcDRvgZnmZ" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1056" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -46,7 +46,7 @@
           <mxGeometry x="374" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XxDOFcH-25pgApNe6fPF-6" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="363" y="630" width="50" height="50" as="geometry" />
+          <mxGeometry x="364" y="720" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XxDOFcH-25pgApNe6fPF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XxDOFcH-25pgApNe6fPF-11" target="XxDOFcH-25pgApNe6fPF-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -85,13 +85,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxDOFcH-25pgApNe6fPF-30" value="IT运维人员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="328" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="328" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XxDOFcH-25pgApNe6fPF-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XxDOFcH-25pgApNe6fPF-32" target="XxDOFcH-25pgApNe6fPF-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XxDOFcH-25pgApNe6fPF-32" value="申请人确认" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="328" y="545" width="120" height="40" as="geometry" />
+          <mxGeometry x="328" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QWxJCDw3qdUrXX-ayBNV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="F7UKDURot4osKYDAoYZM-0" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="QWxJCDw3qdUrXX-ayBNV-10" value="HR领域负责人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;arcSize=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="569" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWxJCDw3qdUrXX-ayBNV-11" value="会审" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="328" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QWxJCDw3qdUrXX-ayBNV-12" value="部门长" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="328" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
