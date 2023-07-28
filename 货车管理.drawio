@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-28T04:57:49.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="Pyy-iA5Y7bt_6Ajn-PZT" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-28T05:05:57.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.183" etag="mRdb2h2rKUw_VPiV0LYa" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1191" dy="470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,17 +98,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="shiynp4GsfVjaMo98gCw-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="shiynp4GsfVjaMo98gCw-64" target="shiynp4GsfVjaMo98gCw-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="783" />
+              <mxPoint x="349" y="783" />
+              <mxPoint x="349" y="907" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="shiynp4GsfVjaMo98gCw-64" value="货车管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="742" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="shiynp4GsfVjaMo98gCw-65" value="用车数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="shiynp4GsfVjaMo98gCw-65" value="用车信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="387" y="692" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shiynp4GsfVjaMo98gCw-66" value="用车日历" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="387" y="757" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="shiynp4GsfVjaMo98gCw-67" value="费用统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="shiynp4GsfVjaMo98gCw-67" value="用车调度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="388" y="822" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="shiynp4GsfVjaMo98gCw-68" value="费用统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="387" y="887" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
