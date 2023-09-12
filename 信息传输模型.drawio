@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T06:21:51.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="RTr0yfVpXpNhpN3ocVSU" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T06:21:58.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="yMfhtUWQ8Z1PvlaR8-TM" version="21.7.4" type="github">
   <diagram name="第 1 页" id="kgYzMEnPWBJV3kkWSXqF">
     <mxGraphModel dx="746" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="3RvgPRZgSg5lWnNu3dTc-15" value="信&lt;br&gt;息&lt;br&gt;化&lt;br&gt;人&lt;br&gt;才" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="-38" width="54" height="233" as="geometry" />
         </mxCell>
-        <mxCell id="3RvgPRZgSg5lWnNu3dTc-16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;信&lt;br&gt;息&lt;br&gt;化&lt;br&gt;政&lt;br&gt;策&lt;br&gt;法&lt;br&gt;规&lt;br&gt;和&lt;br&gt;标&lt;br&gt;准&lt;br&gt;规&lt;br&gt;范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-16" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;信&lt;br&gt;息&lt;br&gt;化&lt;br&gt;政&lt;br&gt;策&lt;br&gt;法&lt;br&gt;规&lt;br&gt;和&lt;br&gt;标&lt;br&gt;准&lt;br&gt;规&lt;br&gt;范" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="569" y="-36" width="54" height="233" as="geometry" />
         </mxCell>
         <mxCell id="3RvgPRZgSg5lWnNu3dTc-17" value="信息技术和产业" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
