@@ -1,9 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T02:59:15.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" version="21.7.4" etag="P6EGtedKY69SR2jJZZ4t" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T03:30:07.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="t55TR20QSMWr-qfKScml" version="21.7.4" type="github">
   <diagram name="第 1 页" id="kgYzMEnPWBJV3kkWSXqF">
-    <mxGraphModel>
+    <mxGraphModel dx="746" dy="867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RvgPRZgSg5lWnNu3dTc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-1" value="信源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RvgPRZgSg5lWnNu3dTc-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-2" value="编码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RvgPRZgSg5lWnNu3dTc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-3" value="信道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3RvgPRZgSg5lWnNu3dTc-4" target="3RvgPRZgSg5lWnNu3dTc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-4" value="解码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-5" value="信宿" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3RvgPRZgSg5lWnNu3dTc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="-250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RvgPRZgSg5lWnNu3dTc-6" value="噪音" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
