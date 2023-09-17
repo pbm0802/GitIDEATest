@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T06:50:30.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="xOyXhgYPfhv6XNliQ1yd" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-17T06:53:44.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.81" etag="HtkEgj5SGH6J3_ORgDOy" version="21.7.5" type="github">
   <diagram name="第 1 页" id="2XJFGIt8u6yxU4nk4Md5">
     <mxGraphModel dx="1066" dy="667" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="p8huIDkQVehPPqhvglfI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p8huIDkQVehPPqhvglfI-15" target="p8huIDkQVehPPqhvglfI-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p8huIDkQVehPPqhvglfI-22" value="不可以母单发货&amp;nbsp; 默认生成一条-Z的订单。&lt;br&gt;需要手动添加子单进行分单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="p8huIDkQVehPPqhvglfI-20">
+        <mxCell id="p8huIDkQVehPPqhvglfI-22" value="不可以母单发货 。默认生成一条-Z的订单。&lt;br&gt;需要手动添加子单进行分单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="p8huIDkQVehPPqhvglfI-20">
           <mxGeometry x="-0.0381" y="1" relative="1" as="geometry">
             <mxPoint x="36" y="4" as="offset" />
           </mxGeometry>
@@ -70,7 +70,7 @@
         <mxCell id="p8huIDkQVehPPqhvglfI-27" value="添加子单" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p8huIDkQVehPPqhvglfI-30" value="也就是待发货通知里面的数据，都是不可以母单发货的数据" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="p8huIDkQVehPPqhvglfI-30" value="也就是待发货通知里面的数据，都是不可以母单发货的数据。" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
