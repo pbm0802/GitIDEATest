@@ -1,9 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2023-10-20T05:56:35.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="22.0.5" etag="igZInwWJb6cK2lpsD5tl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-20T05:57:56.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QRaaqIK6DTztX-U5aHDX" version="22.0.5" type="github">
   <diagram name="第 1 页" id="6n11UT0p_A5hiTh3Dvfy">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-3" target="mEcTvgp-VLRNNWG5Qyr_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-2" value="从物料信息里面选择物料" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEcTvgp-VLRNNWG5Qyr_-1">
+          <mxGeometry x="-0.219" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-3" value="物料信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="229" y="167" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226" y="202" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-5" value="添加物料信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="38" y="182" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556.4902200137867" y="521.5294117647059" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-7" value="选择物料" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="229" y="487" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-9" target="mEcTvgp-VLRNNWG5Qyr_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-9" value="生产用料" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="571" y="487" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-11" target="mEcTvgp-VLRNNWG5Qyr_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-11" value="选择物料信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="307" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-13" target="mEcTvgp-VLRNNWG5Qyr_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-13" value="选择供应商信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="387" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370.60786707261036" y="332" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-15" value="添加版单或是添加商品时会选择物料信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="293" width="127" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-18" target="mEcTvgp-VLRNNWG5Qyr_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-17" value="增加库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEcTvgp-VLRNNWG5Qyr_-16">
+          <mxGeometry x="-0.1683" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-18" value="物料采购" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="578" y="86" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-24" target="mEcTvgp-VLRNNWG5Qyr_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-20" value="没有库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEcTvgp-VLRNNWG5Qyr_-19">
+          <mxGeometry x="0.0567" relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEcTvgp-VLRNNWG5Qyr_-24" target="mEcTvgp-VLRNNWG5Qyr_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-22" value="有库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEcTvgp-VLRNNWG5Qyr_-21">
+          <mxGeometry x="-0.6761" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-23" value="扣减库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mEcTvgp-VLRNNWG5Qyr_-21">
+          <mxGeometry x="0.4139" y="3" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEcTvgp-VLRNNWG5Qyr_-24" value="判断&lt;br&gt;物料库存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="611" y="329" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
