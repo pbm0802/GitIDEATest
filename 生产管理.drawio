@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T09:16:22.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="niknAbE8aC5Yxk0BLlPK" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T09:22:26.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="osTYM3jk7l-UDkRwtwR_" version="22.1.3" type="github">
   <diagram name="第 1 页" id="6lUMC7tMVDHEjYKcJqQm">
-    <mxGraphModel dx="1876" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1230" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,11 +135,26 @@
           <mxGeometry x="526" y="222" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6zmV8pduHyGVnTM9pSWp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6zmV8pduHyGVnTM9pSWp-18" target="fsPAthALO0pmOHw_S46_-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="626" y="157" />
+              <mxPoint x="761" y="157" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6zmV8pduHyGVnTM9pSWp-34" value="增加库存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6zmV8pduHyGVnTM9pSWp-32">
           <mxGeometry x="-0.4702" y="5" relative="1" as="geometry">
             <mxPoint x="3" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zmV8pduHyGVnTM9pSWp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="6zmV8pduHyGVnTM9pSWp-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="955.3697640555247" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zmV8pduHyGVnTM9pSWp-43" value="生成采购付款单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6zmV8pduHyGVnTM9pSWp-42">
+          <mxGeometry x="-0.0756" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6zmV8pduHyGVnTM9pSWp-18" value="物料采购单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -147,6 +162,9 @@
         </mxCell>
         <mxCell id="6zmV8pduHyGVnTM9pSWp-24" value="计件管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="131" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zmV8pduHyGVnTM9pSWp-41" value="财务管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="956" y="105" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
