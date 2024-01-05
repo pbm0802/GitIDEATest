@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T06:52:08.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="qsDAmWLIA2rqlto9MJPR" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T07:42:30.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="88OUsU7eAkl-IsX-vH19" version="22.1.15" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="861" dy="504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JpIcm6Wrq2u5Y_Ei307J-12" value="&lt;p class=&quot;MsoNormal&quot;&gt;7天考核不合格、&lt;span style=&quot;background-color: initial;&quot;&gt;试用期不合格、辞退、自离、&lt;/span&gt;协商一致解除劳动合同&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="260" width="122" height="89" as="geometry" />
+          <mxGeometry x="169" y="261" width="122" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
