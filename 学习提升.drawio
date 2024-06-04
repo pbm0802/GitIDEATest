@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T07:06:23.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.9" etag="7gfqNUC0bPTQVDmK8ywn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T07:14:48.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nOJfkceoCUcc2ASg6eff" version="24.4.9" type="github">
   <diagram name="第 1 页" id="-9qUVntEI3RmhRkPBbD7">
-    <mxGraphModel>
+    <mxGraphModel dx="878" dy="549" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-1" target="vBiirkTYzOAqKoFe-1DA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-1" value="备案申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="151" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-2" target="vBiirkTYzOAqKoFe-1DA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-2" value="奖励申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="222" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-5" target="vBiirkTYzOAqKoFe-1DA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-14" value="&lt;font color=&quot;#ff0000&quot;&gt;未满服务期&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vBiirkTYzOAqKoFe-1DA-11">
+          <mxGeometry x="-0.2" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-5" target="vBiirkTYzOAqKoFe-1DA-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="328" />
+              <mxPoint x="440" y="518" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-15" value="&lt;font color=&quot;#ff0000&quot;&gt;已满服务期&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vBiirkTYzOAqKoFe-1DA-13">
+          <mxGeometry x="-0.2328" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-5" value="离职判断&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, &amp;quot;Lantinghei SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, &amp;quot;Heiti SC&amp;quot;, &amp;quot;Segoe UI&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(246, 246, 246);&quot;&gt;服务期&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="288" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-7" target="vBiirkTYzOAqKoFe-1DA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-7" value="扣费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="418" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vBiirkTYzOAqKoFe-1DA-8" target="vBiirkTYzOAqKoFe-1DA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-8" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vBiirkTYzOAqKoFe-1DA-10" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="498" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
