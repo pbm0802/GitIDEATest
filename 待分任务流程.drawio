@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.12">
   <diagram name="第 1 页" id="VjT9AJZMEjn0dWGumOPq">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-26" target="QmogLGjdtSlkaKgzzuAC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-26" value="&lt;p style=&quot;text-indent: 21pt; font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;需求调研&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-27" target="QmogLGjdtSlkaKgzzuAC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-27" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-100" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-30" target="QmogLGjdtSlkaKgzzuAC-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-30" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 12px;&quot;&gt;需求文档输出&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="55" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-33" target="QmogLGjdtSlkaKgzzuAC-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-33" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 12px;&quot;&gt;需求初审&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-34" target="QmogLGjdtSlkaKgzzuAC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-34" value="&lt;font face=&quot;微软雅黑&quot;&gt;组织需求单位确认&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="251" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-35" target="QmogLGjdtSlkaKgzzuAC-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-35" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;需求终审&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="184" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-39" target="QmogLGjdtSlkaKgzzuAC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-39" target="QmogLGjdtSlkaKgzzuAC-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-39" value="开发类型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="311" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-41" target="QmogLGjdtSlkaKgzzuAC-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-41" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;功能开发&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="408" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-42" target="QmogLGjdtSlkaKgzzuAC-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-42" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; font-size: 12px;&quot;&gt;流程开发&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="479" y="408" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-46" target="QmogLGjdtSlkaKgzzuAC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-46" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;功能测试&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="533" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-47" target="QmogLGjdtSlkaKgzzuAC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-47" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;操作文档输出&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-48" target="QmogLGjdtSlkaKgzzuAC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-48" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;代码正式环境部署&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="751" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-49" target="QmogLGjdtSlkaKgzzuAC-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-49" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;操作文档审核&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="675" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-50" target="QmogLGjdtSlkaKgzzuAC-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-50" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;操作文档发布&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-52" target="QmogLGjdtSlkaKgzzuAC-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-52" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;代码测试环境部署&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="467" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-57" target="QmogLGjdtSlkaKgzzuAC-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-57" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;流程测试&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="479" y="533" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-60" target="QmogLGjdtSlkaKgzzuAC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-60" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;操作文档输出&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="479" y="599" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-61" target="QmogLGjdtSlkaKgzzuAC-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-61" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;操作文档审核&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="479" y="675" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QmogLGjdtSlkaKgzzuAC-62" target="QmogLGjdtSlkaKgzzuAC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-62" value="&lt;p class=&quot;MsoNormal&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;流程正式环境部署&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="479" y="751" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-68" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="910" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-74" value="&lt;p style=&quot;text-indent: 21pt; font-size: 13px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;元艳丽&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="83" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-75" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;微软雅黑&quot;&gt;许明辉&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="83" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmogLGjdtSlkaKgzzuAC-76" value="&lt;p style=&quot;font-size: 12px;&quot; class=&quot;MsoNormal&quot;&gt;曾珂&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="83" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
